@@ -1,0 +1,3 @@
+# Ejercicio Supermercado
+
+En  un  supermercado  se  mantiene  una  cola  A  con diversos clientes de los que seconoce número de ubicación  en  la  cola  y  cantidad de  productos  que lleva. Se abreuna nueva cola B para clientes que llevan menos de 5 productos. Usted debe dejaren la cola A los clientes que llevan más de 5 o hasta 5 productos en el orden enque estaban, y en la cola B los que compran menos de 5 artículos, respetando elorden  que  tenían  en  la  cola  A.  En  ambas  colas reasignar un nuevo número deubicación.

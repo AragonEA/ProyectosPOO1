@@ -1,0 +1,3 @@
+# Ejercicio Teletipo
+
+En  una  terminal  de  teletipo  existe  un  carácter  de retroceso  que  permite  cancelar el  último  carácter. Por  ejemplo:  si  el  carácter  de  retroceso  es  /, entonces  la  línea abc/d//e  será  interpretada  como ae. Existe también un carácter anulador que elimina todos los caracteres ingresados hasta el momento, suponga que ese carácter es &. Realice un método que  dada  una  tira  de  caracteres  terminadas  con  *(leída   del   archivo   “Fuente.txt”)   ejecute   las operaciones indicadas si se encuentracon el carácter / o el &. Debe por ultimo imprimir la tira resultante.
